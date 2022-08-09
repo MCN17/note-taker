@@ -24,7 +24,7 @@ router.get("/notes", (req, res) => {
     req.body.id = notesInFile.length.toString();
     
     notesInFile.push(req.body);
-    fs.writeFileSync("../../db/db.json", JSON.stringify(notesInFile));
+    fs.writeFileSync("db/db.json", JSON.stringify(notesInFile));
       res.json(notesInFile);
   });
 
