@@ -23,3 +23,7 @@ If you have any questions regarding this app, please visit my Github at [MCN17](
 
 ## Website
 https://note-taker-mcn17.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/104735194/184361124-5a8f857e-1990-4f7a-ab7b-f625539b2487.png)
+![image](https://user-images.githubusercontent.com/104735194/184361272-b47a2972-0b3b-4373-aa0e-cc325cfa4dfb.png)
+
